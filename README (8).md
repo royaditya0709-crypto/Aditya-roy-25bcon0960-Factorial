@@ -1,4 +1,4 @@
-# yuvraj-singh-jhala-25BCON1530-FACTORIAL
+# aditya-roy-25BCON0960-FACTORIAL
 basic python program
 ## Factorial Calculator
 A simple Python application that calculates the factorial
